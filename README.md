@@ -44,7 +44,7 @@ The package `net.forcemanager.ws.sample.examples` contains some Java examples. E
 
 #### Example 1
 
-This example shows the top 500 companies and print by console their names.
+This example shows the top 500 companies and prints their names by console.
 
 #### Example 2
 
