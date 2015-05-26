@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Java example code for using [**ForceManager**](https://forcemanager.net/) RESTful API. You can check the API documentation [here](http://developer.forcemanager.net/).
+This is a Java example code for using [**ForceManager**](https://forcemanager.net/) RESTful API. Click [here](http://developer.forcemanager.net/) to see the API documentation .
 
 This example is written in Java using [**Spring Resttemplate**](http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html), [**Jackson**](https://github.com/FasterXML/jackson) and [**Maven**](https://maven.apache.org/).
 
