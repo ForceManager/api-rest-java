@@ -19,13 +19,13 @@ You need to download the last version of Eclipse IDE for Java EE Developers, for
 
 #### Step 2: Import Maven Project into Eclipse
 
-To import an existing Maven project into Eclipse, just right-click the Package Explorer and:
+To import an existing Maven project into Eclipse, just right-click the Package Explorer and go to:
 
 `
 Import... > Existing Maven Projects > Select root directory > Finish
 `
 
-It's possible that you need to update Maven project. To do it, just right-click the project and:
+It's possible that you need to update Maven project. To do it, just right-click the project and go to:
 
 `
 Maven > Update Project...
